@@ -1,6 +1,6 @@
 import React from "react";
 import useFetch from "./useFetch";
-import "./App.css";
+import "../App.css";
 
 const PostList = () => {
   const { data, loading, error } = useFetch(

@@ -1,6 +1,6 @@
 import React from "react";
-import UserList from "./UserList";
-import PostList from "./PostList";
+import UserList from "./components/UserList";
+import PostList from "./components/PostList";
 import "./App.css";
 
 const App = () => {
