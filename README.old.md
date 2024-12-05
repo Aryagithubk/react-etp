@@ -22,3 +22,4 @@ CSS: Simple styling for UI.
    App.js mein hum UserList aur PostList components ko import karte hain aur render karte hain. Yeh overall page ka structure define karta hai.
 4. CSS (App.css)
    Basic styling di gayi hai jisme loading/error messages ko red color mein, aur lists ko white background aur padding di gayi hai.
+5. Jo api use hua h wo dummy data de rha uska koi meaning nhi h
